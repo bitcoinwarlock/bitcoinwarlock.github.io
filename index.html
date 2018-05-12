@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="header-bar">
+  <img src="img/LOGO.png" id="LOGO"/>
+  <h1>Veronica Michelle</h1>
+  <h2>art and design</h2>
+  <p>designer, creative, your lil buddy.</p>
+  <br/>
+  <hr>
+  <br/>
+</div>
+
+
+<ul class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+        <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
+        <p>{{ post.description }}</p>
+        <br/>
+        <hr/>
+      </li>
+    {% endfor %}
+</ul>
