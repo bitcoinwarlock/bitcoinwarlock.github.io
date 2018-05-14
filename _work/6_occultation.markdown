@@ -17,5 +17,3 @@ Occultation - one celestial body obscures another.
 <div class="video">
 	<iframe src="https://player.vimeo.com/video/209017439" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
