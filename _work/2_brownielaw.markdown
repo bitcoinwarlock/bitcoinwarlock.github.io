@@ -22,12 +22,6 @@ And no one ever breaks the Brownie Law…
 <div class="col three caption">
 	Screenshots from the game
 </div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
-</div>
 <br/><br/><br/>
 
 For more information and to download, <a href="https://veronicameow.itch.io/brownie-law">visit the game page on itch.io!</a>
