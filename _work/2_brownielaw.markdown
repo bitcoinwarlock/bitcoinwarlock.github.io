@@ -14,10 +14,10 @@ Talk to people and convince them to join the club, and remember, never take no f
 And no one ever breaks the Brownie Law…
 
 
-<div class="img">
-	<img src="{{ site.baseurl }}/img/bl_menu.png" alt="game menu" title="game menu"/>
-	<img src="{{ site.baseurl }}/img/bl_ellie.png" alt="screenshot" title="interacting with a member"/>
-	<img src="{{ site.baseurl }}/img/bl_candi.jpg" alt="screenshot" title="waiting for the ceremony"/>
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/bl_menu.png" alt="game menu" title="game menu"/>
+	<img class="col three" src="{{ site.baseurl }}/img/bl_ellie.png" alt="screenshot" title="interacting with a member"/>
+	<img class="col three" src="{{ site.baseurl }}/img/bl_candi.jpg" alt="screenshot" title="waiting for the ceremony"/>
 </div>
 <div class="col three caption">
 	Screenshots from the game
