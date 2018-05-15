@@ -9,8 +9,8 @@ Nivalis is a conceptual pharmaceutical. Created for Graphic Design 3 at OCAD Uni
 
 
 <div class="img">
-	<img src="{{ site.baseurl }}/img/nivalis.png" alt="" title="nivalis logo"/>
-	<img src="{{ site.baseurl }}/img/nivalis_poster.jpg" alt="" title="promotional poster"/>
+	<img class="col three" src="{{ site.baseurl }}/img/nivalis.png" alt="" title="nivalis logo"/>
+	<img class="colthree" src="{{ site.baseurl }}/img/nivalis_poster.jpg" alt="" title="promotional poster"/>
 </div>
 <div class="col three caption">
 	The Nivalis logo and a promotional poster, using images from the Naked Alphabet.
