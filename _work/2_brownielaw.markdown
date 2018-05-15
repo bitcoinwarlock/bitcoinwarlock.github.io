@@ -17,7 +17,7 @@ And no one ever breaks the Brownie Law…
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/bl_menu.png" alt="game menu" title="game menu"/>
 	<img class="col three" src="{{ site.baseurl }}/img/bl_ellie.png" alt="screenshot" title="interacting with a member"/>
-	<img class="col three" src="{{ site.baseurl }}/img/bl_candi.jpg" alt="screenshot" title="waiting for the ceremony"/>
+	<img class="col three" src="{{ site.baseurl }}/img/bl_candi.png" alt="screenshot" title="waiting for the ceremony"/>
 </div>
 <div class="col three caption">
 	Screenshots from the game
