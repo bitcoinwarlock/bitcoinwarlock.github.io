@@ -18,6 +18,8 @@ The work plays loosely with the format of a game. There are no scores, no timers
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/dakai_screen4.png" alt="" title="another screenshot from in the game. Thick, dark trees frame the player's view as they look out and see, in the distance, another crystalline form."/>
 </div>
+<iframe src="https://player.vimeo.com/video/265312473" width="640" height="352" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/265312473">Dakai Trailer</a></p>
  <br/><br/><br/>
 
 For more information, visit <a href="bit.ly/dakai">the game page on itch.io.</a>
