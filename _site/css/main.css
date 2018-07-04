@@ -349,8 +349,8 @@ pre {
   position: relative;
   mix-blend-mode: luminosity; }
 
-.thumbnail img:hover {
-  mix-blend-mode: normal; }
+.project:hover, .thumbnail:hover, .thumbnail img:hover, .thumbnail a:hover {
+  background-color: rgba(0, 0, 0, 0); }
 
 .thumbnail a {
   float: left;
