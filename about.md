@@ -4,14 +4,14 @@ title: about
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/prof_pic.jpg">
+<img class="col one right aboutpic" src="/img/prof_pic.jpg">
 
 <br/>
-Hi, I'm Veronica Michelle.
+<div class="aboutcontent">Hi, I'm Veronica Michelle.
 
 I'm a Toronto-based designer and maker. I graduated from OCAD University with a Bachelor's in Graphic Design in 2018, but I make all kinds of things - images, posters, photos, books, games, jewellery, ceramics, pasta, and music - But I'm willing to try anything!
 
-I'd love to be a part of your next project, especially if that project is concerning food, the environment, cats and other animals, or games! <a href="mailto:contact@veronicamichelle.com">Send me an email and let's work together!</a>
+I'd love to be a part of your next project, especially if that project is concerning food, the environment, cats and other animals, or games! <a href="mailto:contact@veronicamichelle.com">Send me an email and let's work together!</a></div>
 <br/>
 <hr/>
 <br/>

@@ -21,7 +21,27 @@ dl, dd, ol, ul, figure {
     }
 }
 
+@keyframes woosh {
+    from {
+        opacity: 0;
+        transform: translateX(250px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0px);
+    }
+}
 
+@keyframes wooshleft {
+    from {
+        opacity: 0;
+        transform: translateX(-250px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0px);
+    }
+}
 /** Variables **********************************************/
 $base-font-family:              Karla, sans-serif;
 $base-line-height:              1.5em;
@@ -235,6 +255,20 @@ pre {
         display: table;
         clear: both;
     }
+}
+
+.aboutpic {
+    opacity: 0;
+    animation: 1s woosh ease;
+    animation-fill-mode: forwards;
+    animation-delay: 0.5s;
+}
+
+.aboutcontent {
+    opacity: 0;
+    animation: 1s wooshleft ease;
+    animation-fill-mode: forwards;
+    animation-delay: 0.5s;
 }
 
 
