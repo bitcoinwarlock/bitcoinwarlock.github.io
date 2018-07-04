@@ -283,3 +283,19 @@ text-align: center;
 vertical-align: middle;
 font-size: $caption_font_size;
 }
+
+@media only screen and (max-width : 500px) {
+    .project {
+        width: 50%;
+    }
+    .header-bar h1 {
+        font-size: 40px;
+    }
+    .header-bar h2 {
+        font-size: 20px;
+        margin-top: -15px;
+    }
+    .header-bar p {
+        font-size: 18px;
+    }
+}
