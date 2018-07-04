@@ -7,7 +7,7 @@ permalink: /work/
 {% for project in site.work %}
 
 {% if project.redirect %}
-<div class="project">
+<div class="project" data-depth="0.3">
     <div class="thumbnail">
         <a href="{{ project.redirect }}" target="_blank">
         {% if project.img %}
@@ -25,7 +25,7 @@ permalink: /work/
 </div>
 {% else %}
 
-<div class="project ">
+<div class="project " data-depth="0.3">
     <div class="thumbnail">
         <a href="{{ site.baseurl }}{{ project.url }}">
         {% if project.img %}

@@ -201,21 +201,29 @@ vertical-align: middle;
 box-sizing: border-box;
 padding: 10px;
 }
+.project:hover {
+}
 .thumbnail{
 width: 100%;
 height: 230px;
 overflow: hidden;
+background-color: rgba(191,125,148,1);
 }
 .thumbnail img{
 width: 230px;
 height: auto;
 position: relative;
+mix-blend-mode: luminosity;
+}
+.thumbnail img:hover {
+    mix-blend-mode: normal;
 }
 .thumbnail a{
 float: left;
 position: relative;
 width: 100%;
 height: 230px;
+
 }
 .thumbnail a span {
 display: none;
@@ -230,6 +238,8 @@ padding: 40px;
 text-align: center;
 }
 .thumbnail a:hover span {
+        animation: 0.5s woop ease;
+    animation-fill-mode: forwards;
 display: block;
 }
 /** 

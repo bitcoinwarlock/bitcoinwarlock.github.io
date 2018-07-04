@@ -10,6 +10,16 @@ dl, dd, ol, ul, figure {
 
 @import url('https://fonts.googleapis.com/css?family=Cutive+Mono|Karla');
 
+@keyframes woop {
+    from {
+        opacity: 0;
+        transform: translateY(-250px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0px); 
+    }
+}
 
 
 /** Variables **********************************************/
